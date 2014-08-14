@@ -21,7 +21,8 @@ Info
 ----
 
 * Author: Igor Kalnitsky <igor@kalnitsky.org>
-* Version: 0.1
+* Modified by : Jonathan Raffre <nk@nekolover.net>
+* Version: 0.1.1
 
 
 .. _Empathy IM: http://live.gnome.org/Empathy
