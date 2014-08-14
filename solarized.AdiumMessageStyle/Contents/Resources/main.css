@@ -56,6 +56,11 @@
     padding: 0px;
 }
 
+body {
+    font-size: 14px;
+    font-family: 'Open Sans', 'DejaVu Sans', 'Ubuntu', 'Droid Sans','Verdana', sans-serif;
+}
+
 a {
     color: #CB4B16; /* Orange */
 }
@@ -98,6 +103,7 @@ a {
 .chat-item .message .message-header .sender {
     color: #859900;
     font-weight: bold;
+    font-family: 'Open Sans', 'DejaVu Sans', 'Ubuntu', 'Droid Sans', 'Verdana', sans-serif;
 }
 
 .chat-item .message .content {
